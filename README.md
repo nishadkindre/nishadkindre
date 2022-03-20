@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 This is where I let my skills speak
 
 - 🌱 Learning and Educating Python 
