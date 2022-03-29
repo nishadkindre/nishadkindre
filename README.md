@@ -4,7 +4,7 @@ This is where I let my skills speak
 - 🌱 Learning and Educating Python 
 - 💬 Ask me about anything related to Python
 - 🏋️‍♀️ Get in touch if any queries or need guidance on fitness n nutrition
-- 🙋‍♂️ Reach at Instagram @nishadkindre
+- 🙋‍♂️ Instagram @nishadkindre
 <!--
 **nishadkindre/nishadkindre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
