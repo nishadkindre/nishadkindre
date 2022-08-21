@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishad Kindre</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">Python developer</h3>
 
 - 🌱 I’m currently learning **AI & ML, Data Science**
 
@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nishadkindre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishadkindre" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nishad-kindre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nishad-kindre" height="30" width="40" /></a>
 <a href="https://instagram.com/nishadkindre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishadkindre" height="30" width="40" /></a>
 </p>
 
