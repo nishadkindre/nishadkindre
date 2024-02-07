@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nishad Kindre</h1>
 <h3 align="center">Python developer</h3>
 
-- 🌱 I’m currently learning **AI & ML, Data Science**
+- 🌱 **Web Developer**
 
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **nishadkindre9553@gmail.com**
-
-- ⚡ Fun fact **Dank**
+- 📫 Reach me at **nishadkindre9553@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
