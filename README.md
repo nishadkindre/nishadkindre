@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishad KIndre</h1>
-<h3 align="center">FullStack Dev, India</h3>
+<h3 align="center">FullStack Developer, India</h3>
 
 - 📫  **nishadkindre@gmail.com**
 
