@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishad KIndre</h1>
+<h1 align="center">Hi 👋, I'm Nishad Kindre</h1>
 <h3 align="center">FullStack Developer, India</h3>
 
 - 📫  **nishadkindre@gmail.com**
