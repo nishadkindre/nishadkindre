@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishad Kindre</h1>
 <h3 align="center">Fullstack Developer, India</h3>
 
-- 📫 Contact **nishadkindre@gmail.com**
+- 📫 **nishadkindre@gmail.com**
 - 👨‍💻  [Portfolio](https://nishadkindre.vercel.app)
 
 
