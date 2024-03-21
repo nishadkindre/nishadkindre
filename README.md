@@ -2,7 +2,6 @@
 <h3 align="center">Fullstack Developer, India</h3>
 
 - 📫 Contact **nishadkindre@gmail.com**
-- 
 - 👨‍💻  [Portfolio](https://nishadkindre.vercel.app)
 
 
