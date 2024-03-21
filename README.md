@@ -3,7 +3,7 @@
 
 - 📫 Contact **nishadkindre@gmail.com**
 - 
-- 👨‍💻 Portfolio [nishadkindre.vercel.app](nishadkindre.vercel.app)
+- 👨‍💻  [Portfolio](https://nishadkindre.vercel.app)
 
 
 <h3 align="left">Connect with me:</h3>
