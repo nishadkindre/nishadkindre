@@ -97,22 +97,22 @@
           height="40"
         />
       </a>
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<!--       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
           alt="postgresql"
           width="40"
           height="40"
         />
-      </a>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      </a> -->
+<!--       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
           alt="firebase"
           width="40"
           height="40"
         />
-      </a>
+      </a> -->
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -129,14 +129,14 @@
           height="40"
         />
       </a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<!--       <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img
           src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
           alt="nextjs"
           width="40"
           height="40"
         />
-      </a>
+      </a> -->
       <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
