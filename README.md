@@ -2,8 +2,7 @@
 <h3 align="center">Fullstack Developer, India</h3>
 
 - 📫 **nishadkindre@gmail.com**
-- 👨‍💻  [Portfolio](https://nishadkindre.vercel.app)
-
+- 👨‍💻  Ask me about JavaScript, React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
