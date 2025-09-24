@@ -145,4 +145,13 @@
         />
       </a>
     </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishadkindre&show_icons=true&locale=en&layout=compact" alt="nishadkindre" /></p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nishadkindre&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishadkindre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F51B5&icon_color=3F51B5&text_color=FFFFFF" alt="nishadkindre's stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishadkindre&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F51B5&text_color=FFFFFF" alt="nishadkindre's languages"/>
+</div>
