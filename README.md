@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer, India</h3>
 
 - 📫 **nishadkindre@gmail.com**
-- 👨‍💻  Ask me about JavaScript, React
+- 👨‍💻 Ask me about JavaScript, React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -145,13 +145,20 @@
         />
       </a>
     </p>
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=nishadkindre&theme=dark&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishadkindre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F51B5&icon_color=3F51B5&text_color=FFFFFF" alt="nishadkindre's stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishadkindre&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3F51B5&text_color=FFFFFF" alt="nishadkindre's languages"/>
+  <h3>🔥 Streak Stats</h3>
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="nishadkindre's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=nishadkindre&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nishadkindre's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nishadkindre&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nishadkindre's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nishadkindre&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=nishadkindre&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 </div>
