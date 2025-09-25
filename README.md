@@ -2,13 +2,15 @@
 
 <h4 align="center">:sparkles:Fullstack Developer, India</h4>
 
-- 📫 **nishadkindre@gmail.com**
-- 👨‍💻 Full stack, full chaos
+**👨‍💻 Full stack, full chaos**
+- 📫 Mail: **nishadkindre@gmail.com**
+- 💼 Work Account: [@nishad-kindre-medtigo](https://github.com/nishad-kindre-medtigo)
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/nishad-kindre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishad-kindre" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nishadkindre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nishadkindre/" height="30" width="40" /></a>
+<h2>Connect with me:</h2>
+<p>
+  <a href="https://www.linkedin.com/in/nishad-kindre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/nishadkindre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://x/NishadKindre" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
 
 <h2>🛠️ Languages & Tools</h2>
