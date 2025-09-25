@@ -3,7 +3,7 @@
 <h4 align="center">:sparkles:Fullstack Developer, India</h4>
 
 - 📫 **nishadkindre@gmail.com**
-- 👨‍💻 Ask me about JavaScript, React
+- 👨‍💻 Full stack, full chaos
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -99,3 +99,7 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=nishadkindre&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </div>
+
+---
+
+<i>⭐ If you like my work, consider giving my repositories a star!</i>
