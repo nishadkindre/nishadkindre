@@ -50,7 +50,7 @@
         <br>MongoDB
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
         <br>MySQL
       </td>
       <td align="center" width="96">
@@ -60,11 +60,11 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
         <br>Docker
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="65" height="65" alt="AWS" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
         <br>AWS
       </td>
       <td align="center" width="96">
@@ -96,7 +96,6 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nishadkindre's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nishadkindre&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="nishadkindre's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nishadkindre&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=nishadkindre&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </div>
