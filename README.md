@@ -1,12 +1,12 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Nishad Kindre</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Nishad Kindre</h1>
 
-<h4 align="center">:sparkles:Fullstack Developer, India</h4>
+<h4>:sparkles:Fullstack Developer, India IN</h4>
 
-**👨‍💻 Full stack, full chaos**
-- 📫 Mail: **nishadkindre@gmail.com**
-- 💼 Work Account: [@nishad-kindre-medtigo](https://github.com/nishad-kindre-medtigo)
+`👨‍💻 Full stack, full chaos`
+- **📫 Email:** nishadkindre@gmail.com
+- **💼 Work:** [@nishad-kindre-medtigo](https://github.com/nishad-kindre-medtigo)
 
-<h2>Connect with me:</h2>
+<h2>🤝 Let's Connect:</h2>
 <p>
   <a href="https://www.linkedin.com/in/nishad-kindre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.instagram.com/nishadkindre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
