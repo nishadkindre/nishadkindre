@@ -6,7 +6,7 @@
 - **📫 Email:** nishadkindre@gmail.com
 - **💼 Work:** [@nishad-kindre-medtigo](https://github.com/nishad-kindre-medtigo)
 
-<h2>🤝 Let's Connect:</h2>
+<h2>🤝 Let's Connect</h2>
 <p>
   <a href="https://www.linkedin.com/in/nishad-kindre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.instagram.com/nishadkindre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
