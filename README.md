@@ -5,6 +5,7 @@
 `👨‍💻 Full stack, full chaos`
 - **📫 Email:** nishadkindre@gmail.com
 - **💼 Work:** [@nishad-kindre-medtigo](https://github.com/nishad-kindre-medtigo)
+- **🌐 Portfolio:** [nishadkindre.vercel.app](https://nishadkindre.vercel.app)
 
 <h2>🤝 Let's Connect</h2>
 <p>
