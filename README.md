@@ -21,67 +21,67 @@
     <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-        <br>React
+        <!-- <br>React -->
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        <br>JavaScript
+        <!-- <br>JavaScript -->
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-        <br>TypeScript
+        <!-- <br>TypeScript -->
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-        <br>Python
+        <!-- <br>Python -->
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
-        <br>Figma
+        <!-- <br>Figma -->
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
-        <br>Node.js
+        <!-- <br>Node.js -->
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-        <br>Express
+        <!-- <br>Express -->
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-        <br>MongoDB
+        <!-- <br>MongoDB -->
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
-        <br>MySQL
+        <!-- <br>MySQL -->
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
-        <br>PostgreSQL
+        <!-- <br>PostgreSQL -->
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Docker" />
-        <br>Docker
+        <!-- <br>Docker -->
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="AWS" />
-        <br>AWS
+        <!-- <br>AWS -->
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-        <br>Git
+        <!-- <br>Git -->
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-        <br>VS Code
+        <!-- <br>VS Code -->
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
-        <br>Tailwind
+        <!-- <br>Tailwind -->
       </td>
     </tr>
   </table>
