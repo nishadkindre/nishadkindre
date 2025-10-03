@@ -3,9 +3,10 @@
 <h4>:sparkles:Fullstack Developer, India IN</h4>
 
 `👨‍💻 Full stack, full chaos`
-- **📫 Email:** nishadkindre@gmail.com
-- **💼 Work:** [@nishad-kindre-medtigo](https://github.com/nishad-kindre-medtigo)
-- **🌐 Portfolio:** [nishadkindre.vercel.app](https://nishadkindre.vercel.app)
+
+[![Gmail](https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishadkindre@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://nishadkindre.vercel.app)
+[![GitHub](https://img.shields.io/badge/Work_Github-166534?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nishad-kindre-medtigo)
 
 <h2>🤝 Let's Connect</h2>
 <p>
