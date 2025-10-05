@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Nishad Kindre</h1>
 
-<h4>:sparkles:Fullstack Developer, India IN</h4>
+<h4>:sparkles:Fullstack Developer, India</h4>
 
 `👨‍💻 Full stack, full chaos`
 
