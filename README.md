@@ -1,8 +1,6 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Nishad Kindre</h1>
 
-<h4>:sparkles:Fullstack Developer, India</h4>
-
-`👨‍💻 Full stack, full chaos`
+<h4>✨ Fullstack Developer · India &nbsp;|&nbsp; <code>👨‍💻 Full stack, full chaos</code></h4>
 
 [![Gmail](https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishadkindre@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://nishadkindre.vercel.app)
@@ -10,9 +8,11 @@
 
 <h2>🤝 Let's Connect</h2>
 <p>
-  <a href="https://www.linkedin.com/in/nishad-kindre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/nishadkindre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://x.com/NishadKindre" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nishad-kindre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/nishadkindre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" /></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/NishadKindre" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" /></a>
 </p>
 
 <h2>🛠️ Languages & Tools</h2>
